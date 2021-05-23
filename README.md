@@ -26,12 +26,14 @@ There are dedicated optimization api's and products available in the market (lik
 Based on assignment Functional test cases have been implemented in DT-ShoppingCart\ShoppingCart.Test\MultipleDiscountFunctionalTest.cs 
 
 Offers (refer to contructor)
-• Buy 2 Butter and get a Bread at 50% off
-• Buy 3 Milk and get the 4th milk for free
+- Buy 2 Butter and get a Bread at 50% off
+- Buy 3 Milk and get the 4th milk for free
 Scenarios(Refer to Theory and each inline represent the 4 secnerios)
-• Given the basket has 1 bread, 1 butter and 1 milk when I total the basket then the total should be £2.95
-• Given the basket has 2 butter and 2 bread when I total the basket then the total should be £3.10
-• Given the basket has 4 milk when I total the basket then the total should be £3.45
-• Given the basket has 2 butter, 1 bread and 8 milk when I total the basket then the total should be £9.00
+- Given the basket has 1 bread, 1 butter and 1 milk when I total the basket then the total should be £2.95
+- Given the basket has 2 butter and 2 bread when I total the basket then the total should be £3.10
+- Given the basket has 4 milk when I total the basket then the total should be £3.45
+- Given the basket has 2 butter, 1 bread and 8 milk when I total the basket then the total should be £9.00
 
-![picture](Clas Diagram.png)
+there are a lot more unit test cases and integration test cases besides the functional test covring core requirements.
+
+![picture](https://github.com/pradeepdhawan/dt-shoppingcart/blob/main/Class%20Diagram.png)
