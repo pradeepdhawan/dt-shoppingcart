@@ -1,5 +1,4 @@
 # dt-shoppingcart
-Assignment for DecisionTech
 
 
 Requirement: We have a Shopping Cart project that calculates the price of the items in the Cart after applying all available offers.
